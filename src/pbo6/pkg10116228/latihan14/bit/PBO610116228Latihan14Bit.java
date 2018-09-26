@@ -7,9 +7,14 @@ package pbo6.pkg10116228.latihan14.bit;
 
 /**
  *
- * @author Rizki Adam Kurniawan
- */
-public class PBO610116228Latihan14Bit {
+ * @author 
+ *  Dosen   : Rizki Adam Kurniawan
+ *  Nama    : Gandy Christian Situmorang
+ *  kelas   : PBO6
+ *  NIM     : 10116228
+ *  deskripsi program    : Program ini berisi program BIT
+ *
+ */public class PBO610116228Latihan14Bit {
 
     /**
      * @param args the command line arguments
